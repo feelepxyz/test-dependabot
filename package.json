@@ -24,6 +24,6 @@
     "@actions/core": "^1.0.0",
     "@changesets/cli": "^2.26.1",
     "lodash": "^4.8.0",
-    "react": "^15.5.1"
+    "react": "^18.2.0"
   }
 }
