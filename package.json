@@ -1,5 +1,5 @@
 {
-  "name": "test-dependabot",
+  "name": "@feelepxyz/test-dependabot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/feelepxyz/test-dependabot.git"
+    "url": "git+https://github.com/feelepxyz/TEST-dependabot.git"
   },
   "author": "",
   "license": "ISC",
